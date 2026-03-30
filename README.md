@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tanay 👋
 
-<!--
-**TanayM7683/TanayM7683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Learning Java, DSA, Machine learning and AI 
+🚀 Practicing DSA daily on Codeforces  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Data Structures & Algorithms
+- AI ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Competitive Programming
+- Problem Solving
