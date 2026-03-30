@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student  
 💻 Learning Java, DSA, Machine learning and AI 
-🚀 Practicing DSA daily on Codeforces  
+🚀 Practicing Coding daily on LeetCode  
 
 ## Skills
 - Java
